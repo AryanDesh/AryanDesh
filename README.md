@@ -3,6 +3,7 @@
 Final year student at Vishwakarma Institute of Technology, Pune.
 
  A little more about me...
+ '''json
 const aryan = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Java", "SQL"],
@@ -28,12 +29,6 @@ const aryan = {
     architecture: ["microservices", "monolithic", "serverless"],
     currentFocus: "Specialising in Backend Development and getting handons with AI",
 };
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+```
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
-Code Time
-
-Profile Views
-
-Lines of code
-
-🐱 Open to Hire
