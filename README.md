@@ -3,7 +3,7 @@
 Final year student at Vishwakarma Institute of Technology, Pune.
 
  A little more about me...
- ``` json
+ ``` 
 const aryan = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Java", "SQL"],
