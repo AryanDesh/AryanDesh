@@ -12,7 +12,7 @@ const aryan = {
         frontEnd: {
             js: ["React", "Next.js"],
             css: ["Scss", "Tailwind"],
-            uiLibraries: ["Shadcn/ui", "Storybook"],
+            uiLibraries: ["Shadcn/ui"],
         },
         backEnd: {
             js: ["Node", "Express"],
