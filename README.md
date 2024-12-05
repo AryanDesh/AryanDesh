@@ -8,7 +8,7 @@
 const aryan = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Java", "SQL"],
-    askMeAbout: ["fullstack web dev", "dev ops", "cloud computing", "tech trends"],
+    askMeAbout: ["web dev", "dev ops", "cloud computing", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
