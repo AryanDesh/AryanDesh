@@ -1,4 +1,4 @@
- Welcome to my Github🙏🏻, I'm Aryan Vikas Deshmukh! 
+ Welcome to my Github🙏🏻, I'm Aryan Deshmukh! 
 
 # 💫 About Me:
 | Currently Final year of pursuing BTech in VIT Pune<br>| Specialize and Love working on Backends<br>| Full-stack Web Developer<br>
