@@ -1,16 +1,39 @@
-## Hi there 👋
+ Welcome to my Github🙏🏻, I'm Anmol Pratap Singh! 
 
-<!--
-**AryanDesh/AryanDesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final year student at Vishwakarma Institute of Technology, Pune.
 
-Here are some ideas to get you started:
+ A little more about me...
+const aryan = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Java", "SQL"],
+    askMeAbout: ["fullstack web dev", "dev ops", "cloud computing", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Scss", "Tailwind"],
+            uiLibraries: ["Shadcn/ui", "Storybook"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Flask"],
+        },
+        devOps: ["Docker🐳", "K8s", "Grafana", "Prometheus", "GitHub Actions"],
+        cloudServices: {
+            aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS", "DynamoDB"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "redis"],
+        misc: ["WebSockets", "REST APIs", "WebRTC", "Remote Procedural Calls", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization", "OpenAI API"],
+    },
+    architecture: ["microservices", "monolithic", "serverless"],
+    currentFocus: "Specialising in Backend Development and getting handons with AI",
+};
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Code Time
+
+Profile Views
+
+Lines of code
+
+🐱 Open to Hire
