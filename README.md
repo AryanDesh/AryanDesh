@@ -1,7 +1,7 @@
  Welcome to my Github🙏🏻, I'm Aryan Deshmukh! 
 
 # 💫 About Me:
-| Currently Final year of pursuing BTech in VIT Pune<br>| Specialize and Love working on Backends<br>| Full-stack Web Developer<br>
+|Jr-Backend Developer at Onpoint Software services<br>| Currently Final year of pursuing BTech in VIT Pune<br>| Specialize and Love working on Backends<br>| Web Developer<br> 
 
  A little more about me...
  ``` 
