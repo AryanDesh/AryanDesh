@@ -1,34 +1,14 @@
  Welcome to my Github🙏🏻, I'm Aryan Deshmukh! 
 
 # 💫 About Me:
-|Jr-Backend Developer at Onpoint Software services<br>| Currently Final year of pursuing BTech in VIT Pune<br>| Specialize and Love working on Backends<br>| Web Developer<br> 
+| Software Development Engineer @Maxim AI <br>
 
  A little more about me...
  ``` 
 const aryan = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Java", "SQL"],
-    askMeAbout: ["web dev", "dev ops", "cloud computing", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Scss", "Tailwind"],
-            uiLibraries: ["Shadcn/ui"],
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Flask"],
-        },
-        devOps: ["Docker🐳", "K8s", "Grafana", "Prometheus", "GitHub Actions"],
-        cloudServices: {
-            aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS", "DynamoDB"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "redis"],
-        misc: ["WebSockets", "REST APIs", "WebRTC", "Remote Procedural Calls", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization", "OpenAI API"],
-    },
-    architecture: ["microservices", "monolithic", "serverless"],
-    currentFocus: "Specialising in Backend Development and getting handons with AI",
+    code: ["TypeScript", "Python", "SQL"],
+    askMeAbout: ["web dev", "dev ops", "cloud computing", "tech trends"]
 };
 ```
 
